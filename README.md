@@ -54,7 +54,7 @@ To get started with this application, follow these steps:
 4. **Run the Application:**
    After setting up everything, you can run the application using:
    ```bash
-   python app.py
+   python GUI - Weather Application.py
    ```
 
 ### Example Usage:
